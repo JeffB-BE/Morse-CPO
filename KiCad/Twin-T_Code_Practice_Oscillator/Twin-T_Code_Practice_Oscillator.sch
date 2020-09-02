@@ -5,7 +5,7 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "Twin-T Morse Code Practice Oscillator"
-Date "2020-09-01"
+Date "2020-09-02"
 Rev "A"
 Comp ""
 Comment1 ""
@@ -379,8 +379,8 @@ U 1 1 5F488623
 P 4100 3900
 F 0 "RV1" V 4425 3900 50  0000 C CNN
 F 1 "10k" V 4325 3900 50  0000 C CNN
-F 2 "BE_TrimPot:Bourns_3329S_Vertical" H 4100 3900 50  0001 C CNN
-F 3 "https://www.bourns.com/pdfs/3329.pdf" H 4100 3900 50  0001 C CNN
+F 2 "BE_TrimPot:Piher_PT6_Vertical" H 4100 3900 50  0001 C CNN
+F 3 "https://www.mouser.com/datasheet/2/18/11-PT6v03-1499160.pdf" H 4100 3900 50  0001 C CNN
 	1    4100 3900
 	0    1    -1   0   
 $EndComp
